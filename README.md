@@ -11,3 +11,4 @@
 
 - git rebase : déplacer une branche "par dessus" une autre
 - git merge : fusioner une branche dans une autre
+- git rebase -i : peut être une autre fois...
